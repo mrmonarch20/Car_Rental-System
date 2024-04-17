@@ -3,7 +3,7 @@ Revolutionize car rentals with our Java-based system, leveraging OOP principles 
 
 _____________________________________________________________________________________________________________
 Getting Started
-Clone the Repo: git clone https:
+Clone the Repo: git clone https://github.com/mrmonarch20/Car_Rental-System.git
 Contributions Welcome! 🎉
 Contribute to the project's growth. Open issues, submit pull requests, and collaborate with the community.
 _____________________________________________________________________________________________________________
